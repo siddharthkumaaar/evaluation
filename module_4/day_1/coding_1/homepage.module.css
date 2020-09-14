@@ -1,0 +1,25 @@
+.nav{
+    height: 50px;
+    background-color: skyblue;
+}
+
+.nav > h3{
+    float:left;
+    margin: 10px;
+    color: white;
+    font-size: 30px;
+    background: tomato;
+    font-style: italic;
+    border-radius: 25% 0 25% 0;
+}
+
+.nav > button{
+    float: right;
+    margin: 10px;
+    width: 70px;
+    height: 30px;
+    background: yellow;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
