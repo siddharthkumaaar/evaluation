@@ -1,0 +1,50 @@
+.mainDiv{
+    text-align: center;
+    margin-left: 250px;
+}
+
+.nav{
+    border: 1px solid black;
+    height: 100px;
+    margin: 50px;
+    width: 700px;
+    display: flex; 
+    flex-direction: row;
+    /* padding: 30px; */
+    justify-content: center;
+
+}
+
+.iimg{
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+}
+
+.green{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.red{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+thead > tr{
+    font-weight: bolder;
+    
+}
+table{
+    margin: 20px;
+
+}
+
+.filterdiv{
+    margin: 20px;
+    margin-right: 250px;
+}

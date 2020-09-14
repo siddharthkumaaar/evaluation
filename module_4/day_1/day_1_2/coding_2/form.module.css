@@ -1,0 +1,17 @@
+.frm{
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.frm > div{
+    margin: 10px;
+}
+
